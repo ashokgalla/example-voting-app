@@ -1,5 +1,6 @@
 Example Voting App
 =========
+This is a test to check branching!
 
 A simple distributed application running across multiple Docker containers.
 
